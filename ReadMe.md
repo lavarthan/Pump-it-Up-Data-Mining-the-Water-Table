@@ -34,4 +34,6 @@
      *  Training set accuracy 0.9687552472843285
      *  Test set accuracy 0.8632833230006199
 
+![Feauture imporatnce](https://github.com/lavarthan/Pump-it-Up-Data-Mining-the-Water-Table/blob/master/feauture_imporatancepng.png)
+
 
